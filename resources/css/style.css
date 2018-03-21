@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rubik'), local('Rubik-Regular'), url(https://fonts.gstatic.com/s/rubik/v7/_mlO9_1N7oXYhEnEzC2l-g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Trirong Regular'), local('Trirong-Regular'), url(https://fonts.gstatic.com/s/trirong/v3/XBaDEcwEYQS_hYkoepMU7g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Trirong Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Trirong Bold'), local('Trirong-Bold'), url(https://fonts.gstatic.com/s/trirong/v3/0KkcdNa49hXaiBFcGFXf1vk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+
+html {
+  font-family: 'Rubik';
+  font-size: 1.3rem;
+}
+
+h1 {
+  font-family: 'Trirong Bold';
+}
